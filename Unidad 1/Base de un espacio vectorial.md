@@ -1,0 +1,1 @@
+Una base de un ev $V$ es un conjunto $S$ que genera $V$ y ademas es li

@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "1eec2a257ddce617",
+    "type": "split",
+    "children": [
+      {
+        "id": "3baf768ec16539d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d9d466320880d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uniadad 4/Diagonalización caracterizada a partir de autoespacios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae2ed0daf277ebe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3ec691874cd7751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e589cb23ca39d732",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abed3c30e2eb9e42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c00617daa861b0cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e27245aad1d2e717",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fc77f0aeb23ddd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e00edb298c935ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Uniadad 4/Diagonalización caracterizada a partir de autoespacios.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6565a51b543bf84d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Uniadad 4/Diagonalización caracterizada a partir de autoespacios.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0896071c9edf23e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d3063cffb641b36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Uniadad 4/Diagonalización caracterizada a partir de autoespacios.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e589cb23ca39d732",
+  "lastOpenFiles": [
+    "Uniadad 4/Dos matrices semejantes tienen el mismo polinomio minimal.md",
+    "Uniadad 4/La dimensión del autoespacio de un autovalor es siempre menor a su multiplicidad algebraica.md",
+    "Uniadad 4/Polinomio minimal de una matriz.md",
+    "Uniadad 4/Siempre existe un polinomio que anula a una matriz dada.md",
+    "Uniadad 4/Los autoespacios se suman de manera directa.md",
+    "Uniadad 4/Diagonalización caracterizada a partir de autoespacios.md",
+    "Unidad 1/Unicidad de escritura de las bases.md",
+    "Unidad 1/Todo espacio vectorial finito tiene una base.md",
+    "Unidad 1/Todo conjunto li se puede extender a una base de V.md",
+    "Unidad 1/Todas las bases tienen la misma cardinalidad.md",
+    "Unidad 1/S subconjunto de T implica span(S) sev de span(T).md",
+    "Unidad 1/El span de un conjunto es un subespacio vectorial.md",
+    "Unidad 1/El span de un conjunto de vectores es la interseccion de todos los subespacios que los contienen.md",
+    "Unidad 1/Existencia de suma directa de un subespacio vectorial.md",
+    "Unidad 1/El cardinal de un conjunto li es siempre menor o igual que el de un conjunto generador.md",
+    "Unidad 1/Dimensión de la suma de espacios vectoriales.md",
+    "Unidad 1/Caracterización de un subespacio vectorial.md",
+    "Unidad 1/Axiomas de los espacios vectorial.md",
+    "Unidad 2/Teorema de la dimension.md",
+    "Uniadad 4",
+    "Unidad 1/Independencia lineal.md",
+    "Unidad 1/Si S es un sev de V, entonces span(S) = S.md",
+    "Unidad 1/Todo conjunto generador se puede reducir a una base.md",
+    "Unidad 2/Matriz de una transformación lineal.md",
+    "Unidad 2/Matriz de cambio de base.md",
+    "Unidad 2/Propiedad cancelativa del producto matricial.md",
+    "Unidad 2/Todo ev de dimension finita es equivalente a un espacio de tuplas.md",
+    "Unidad 2",
+    "Unidad 1"
+  ]
+}
