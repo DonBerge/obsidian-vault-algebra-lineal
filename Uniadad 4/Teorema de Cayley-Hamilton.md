@@ -53,6 +53,7 @@ Lema: Si $M \in \mathbb F^{n \times n}$ es una matriz por bloques de la forma $M
 	Luego $\det(M)=\sum_{\sigma \in S_n} sgn(\sigma) \prod_{i=1}^n M_{i\sigma(i)} = \sum_{\sigma \in S_n} sgn(\sigma) \prod_{i=1}^r M_{i\sigma(i)} \prod_{i=r+1}^n M_{i\sigma(i)}$ 
 	$=\sum_{\sigma \in S_n} sgn(\pi)\cdot sgn(\tau) \prod_{i=1}^r a_{i\pi(i)} \prod_{i=r+1}^n d_{i\tau(i)}$
 
+s
 
 
 
