@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniadad 4/Diagonalización caracterizada a partir de autoespacios.md",
+                "file": "Unidad 4/Diagonalización caracterizada a partir de autoespacios.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniadad 4/Los autovalores de una matriz son raíces del polinomio minimal.md",
+                "file": "Unidad 4/Los autovalores de una matriz son raíces del polinomio minimal.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniadad 4/Diagonalización caracterizada a partir de autoespacios.md",
+                "file": "Unidad 4/Diagonalización caracterizada a partir de autoespacios.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniadad 4/Teorema de Cayley-Hamilton.md",
+                "file": "Unidad 4/Teorema de Cayley-Hamilton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c004d1f7f004fbc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 4/Corolarios del teorema de Cayley-Hamilton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad018d48116e4fc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 4/Dos matrices semejantes tienen el mismo polinomio minimal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bfa95a4ebe69601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 4/Subespacios invariantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e047b37f9cd9ff18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 4/Lema tecnico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfe41b9166ae0612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 4/Teorema de Cayley-Hamilton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e4308351e135b42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 4/Potencia de un bloque de Jordan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82d9de96d238ddde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 4/Bloque de Jordan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -122,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniadad 4/Teorema de Cayley-Hamilton.md",
+                "file": "Unidad 4/Bloque de Jordan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniadad 4/Teorema de Cayley-Hamilton.md",
+                "file": "Unidad 4/Bloque de Jordan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniadad 4/Teorema de Cayley-Hamilton.md"
+                "file": "Unidad 4/Bloque de Jordan.md"
               }
             }
           }
@@ -183,35 +267,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62e2b89809a874bd",
+  "active": "82d9de96d238ddde",
   "lastOpenFiles": [
-    "Uniadad 4/Diagonalización caracterizada a partir de autoespacios.md",
-    "Uniadad 4/Teorema de Cayley-Hamilton.md",
-    "Uniadad 4/El polinomio minimal como un mcm.md",
-    "Uniadad 4/Los autovalores de una matriz son raíces del polinomio minimal.md",
+    "Unidad 4/Potencia de un bloque de Jordan general.md",
+    "Untitled",
+    "Unidad 4/Potencia de un bloque de Jordan.md",
+    "Unidad 4/Bloque de Jordan.md",
+    "Unidad 4/Teorema de Cayley-Hamilton.md",
+    "Unidad 4/Corolarios del teorema de Cayley-Hamilton.md",
+    "Diagonalización caracterizada a partir del polinomio minimal.md",
+    "Unidad 4/Lema tecnico.md",
+    "Unidad 4/Subespacios invariantes.md",
+    "Unidad 4/Dos matrices semejantes tienen el mismo polinomio minimal.md",
+    "Unidad 4/Polinomio minimal de una matriz.md",
+    "Unidad 4/Diagonalización caracterizada a partir de autoespacios.md",
+    "Unidad 4/Los autovalores de una matriz son raíces del polinomio minimal.md",
+    "Unidad 1/El span de un conjunto es un subespacio vectorial.md",
+    "Unidad 1/El cardinal de un conjunto li es siempre menor o igual que el de un conjunto generador.md",
+    "Unidad 1/Dimensión de la suma de espacios vectoriales.md",
+    "Unidad 4/El polinomio minimal como un mcm.md",
     "Unidad 2/Dimension del espacio de TLs.md",
-    "Uniadad 4/Dos matrices semejantes tienen el mismo polinomio minimal.md",
-    "Uniadad 4/La dimensión del autoespacio de un autovalor es siempre menor a su multiplicidad algebraica.md",
-    "Uniadad 4/Polinomio minimal de una matriz.md",
-    "Uniadad 4/Siempre existe un polinomio que anula a una matriz dada.md",
-    "Uniadad 4/Los autoespacios se suman de manera directa.md",
+    "Unidad 4/La dimensión del autoespacio de un autovalor es siempre menor a su multiplicidad algebraica.md",
+    "Unidad 4/Siempre existe un polinomio que anula a una matriz dada.md",
+    "Unidad 4/Los autoespacios se suman de manera directa.md",
     "Unidad 1/Unicidad de escritura de las bases.md",
     "Unidad 1/Todo espacio vectorial finito tiene una base.md",
     "Unidad 1/Todo conjunto li se puede extender a una base de V.md",
     "Unidad 1/Todas las bases tienen la misma cardinalidad.md",
     "Unidad 1/S subconjunto de T implica span(S) sev de span(T).md",
-    "Unidad 1/El span de un conjunto es un subespacio vectorial.md",
-    "Unidad 1/El span de un conjunto de vectores es la interseccion de todos los subespacios que los contienen.md",
-    "Unidad 1/Existencia de suma directa de un subespacio vectorial.md",
-    "Unidad 1/El cardinal de un conjunto li es siempre menor o igual que el de un conjunto generador.md",
-    "Unidad 1/Dimensión de la suma de espacios vectoriales.md",
-    "Unidad 1/Caracterización de un subespacio vectorial.md",
-    "Unidad 1/Axiomas de los espacios vectorial.md",
-    "Unidad 2/Teorema de la dimension.md",
-    "Uniadad 4",
-    "Unidad 1/Independencia lineal.md",
-    "Unidad 1/Si S es un sev de V, entonces span(S) = S.md",
-    "Unidad 1/Todo conjunto generador se puede reducir a una base.md",
+    "Unidad 4",
     "Unidad 2",
     "Unidad 1"
   ]
