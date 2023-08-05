@@ -8,63 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ac4ba0727d659df",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8f91a006d03d972d",
+            "id": "d6bbd6bd8f237b3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 5/Base dual.md",
+                "file": "Unidad 3/Proposición 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "89dd8bfdd6724282",
+            "id": "ed6eab5736252ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 5/Espacio aniquilador.md",
+                "file": "Unidad 4/Teorema de Cayley-Hamilton.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c1281ad34ecda785",
+            "id": "c54def1b0d22a24b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 5/Aplicación dual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e9e7a99345f598e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unidad 5/Espacio aniquilador.md",
+                "file": "Unidad 5/Parcial 3 ejercicio 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unidad 5/Espacio aniquilador.md",
+                "file": "Unidad 5/Parcial 3 ejercicio 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unidad 5/Espacio aniquilador.md",
+                "file": "Unidad 5/Parcial 3 ejercicio 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unidad 5/Espacio aniquilador.md"
+                "file": "Unidad 5/Parcial 3 ejercicio 2.md"
               }
             }
           }
@@ -191,36 +171,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e9e7a99345f598e",
+  "active": "c54def1b0d22a24b",
   "lastOpenFiles": [
-    "Unidad 5/Teorema de representación de Riez.md",
-    "Unidad 5/Aplicación dual.md",
-    "Unidad 5/Espacio aniquilador.md",
-    "Unidad 5/Base dual.md",
-    "Untitled",
+    "Unidad 5/La proyección ortogonal es autoadjunta.md",
+    "Unidad 5/Parcial 3 ejercicio 2.md",
+    "Unidad 4/Teorema de Cayley-Hamilton.md",
     "Unidad 4/Bloque de Jordan.md",
-    "Unidad 5",
+    "Unidad 4/Corolarios del teorema de Cayley-Hamilton.md",
+    "Unidad 4/Diagonalización caracterizada a partir de autoespacios.md",
+    "Unidad 4/Dos matrices semejantes tienen el mismo polinomio minimal.md",
+    "Unidad 4/El polinomio minimal como un mcm.md",
+    "Unidad 4/La dimensión del autoespacio de un autovalor es siempre menor a su multiplicidad algebraica.md",
+    "Unidad 4/Lema tecnico.md",
+    "Unidad 4/Los autoespacios se suman de manera directa.md",
+    "Unidad 4/Los autovalores de una matriz son raíces del polinomio minimal.md",
+    "Unidad 4/Polinomio minimal de una matriz.md",
+    "Unidad 4/Subespacios invariantes.md",
+    "Unidad 4/Siempre existe un polinomio que anula a una matriz dada.md",
     "Unidad 4/Potencia de un bloque de Jordan general.md",
     "Unidad 4/Potencia de un bloque de Jordan.md",
-    "Unidad 4/Teorema de Cayley-Hamilton.md",
-    "Unidad 4/Corolarios del teorema de Cayley-Hamilton.md",
-    "Diagonalización caracterizada a partir del polinomio minimal.md",
-    "Unidad 4/Lema tecnico.md",
-    "Unidad 4/Subespacios invariantes.md",
-    "Unidad 4/Dos matrices semejantes tienen el mismo polinomio minimal.md",
-    "Unidad 4/Polinomio minimal de una matriz.md",
-    "Unidad 4/Diagonalización caracterizada a partir de autoespacios.md",
-    "Unidad 4/Los autovalores de una matriz son raíces del polinomio minimal.md",
-    "Unidad 1/El span de un conjunto es un subespacio vectorial.md",
-    "Unidad 1/El cardinal de un conjunto li es siempre menor o igual que el de un conjunto generador.md",
-    "Unidad 1/Dimensión de la suma de espacios vectoriales.md",
-    "Unidad 4/El polinomio minimal como un mcm.md",
-    "Unidad 2/Dimension del espacio de TLs.md",
-    "Unidad 4/La dimensión del autoespacio de un autovalor es siempre menor a su multiplicidad algebraica.md",
-    "Unidad 4/Siempre existe un polinomio que anula a una matriz dada.md",
-    "Unidad 4/Los autoespacios se suman de manera directa.md",
-    "Unidad 1/Unicidad de escritura de las bases.md",
-    "Unidad 1/Todo espacio vectorial finito tiene una base.md",
+    "Unidad 5/Una tl ortogonal  tiene como autovalores +-1.md",
+    "Unidad 5/Si U es un sev invariante su complemento ortogonal es invariante.md",
+    "Unidad 5/Aplicaciones, teorema 1.md",
+    "Unidad 5/Proposición 1.md",
+    "Unidad 3/Proposición 1.md",
+    "Unidad 3/Coordenadas de un vector en una base ortogonalñ.md",
+    "Unidad 3/Ortogonalidad implica independencia lineal.md",
+    "Unidad 5/Ejercicio 15 practica.md",
+    "Unidad 5/Ejercicio 13 practica.md",
+    "Unidad 3",
+    "Unidad 5",
     "Unidad 4",
     "Unidad 2",
     "Unidad 1"
